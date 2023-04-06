@@ -1,2 +1,2 @@
 # CrashLoyale
-A Crash Royale clone ( a game by Supercell)
+Crash Loyal is a clone of the popular mobile game Clash Royale (a game by Supercell) built for my Game AI class. You compete against a modular utility-based AI opponent that I created. The decision-making structure of the AI is built on behavior trees with a slight randomization implemented using a leaf node. Since the AI is based on a counter-acting system, it reacts to the player's play, making it challenging but not impossible to beat.
